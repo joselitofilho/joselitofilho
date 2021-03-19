@@ -4,12 +4,11 @@ My name is Joselito. I am Software Engineer based in Fortaleza/CE - 🇧🇷 and
 
 🔭 I’m currently working on Instituto Atlântico and personal projects.
 
+💬 Ask me about anything! Will be my pleasure help you.
+
 📫 How to reach me:
 
-[<img src="media/medial_social_linkedin.png" alt="LinkeIn" width="48" height="48" style="max-width:100%;">](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoselitoviveiros%2F&sa=D&sntz=1&usg=AFQjCNF1cpIEVKk8bcvPQLzQTFsYhpvSFg)
-[<img src="media/medial_social_insta.png" alt="Instagram" width="48" height="48" style="max-width:100%;">](https://www.google.com/url?q=https%3A%2F%2Finstagram.com%2Fjoselitofilhoo%2F&sa=D&sntz=1&usg=AFQjCNF2uy578VkQbFHwKVlwazipx6TM4Q)
-[<img src="media/medial_social_linktree.png" alt="Instagram" width="48" height="48" style="max-width:100%;">](https://linktr.ee/joselitofilho)
-[<img src="media/medial_social_googlesites.png" alt="eu" width="48" height="48" style="max-width:100%;">](https://sites.google.com/view/joselitofilho)
+[<img src="media/medial_social_linkedin.png" alt="LinkeIn" width="48" height="48" style="max-width:100%;">](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoselitoviveiros%2F&sa=D&sntz=1&usg=AFQjCNF1cpIEVKk8bcvPQLzQTFsYhpvSFg)[<img src="media/medial_social_insta.png" alt="Instagram" width="48" height="48" style="max-width:100%;">](https://www.google.com/url?q=https%3A%2F%2Finstagram.com%2Fjoselitofilhoo%2F&sa=D&sntz=1&usg=AFQjCNF2uy578VkQbFHwKVlwazipx6TM4Q)[<img src="media/medial_social_linktree.png" alt="Instagram" width="48" height="48" style="max-width:100%;">](https://linktr.ee/joselitofilho)[<img src="media/medial_social_googlesites.png" alt="eu" width="48" height="48" style="max-width:100%;">](https://sites.google.com/view/joselitofilho)
 
 #### 👨‍💻 Repositories I have created
 - [joselitofilhoo/thewar](https://github.com/joselitofilho/thewar) - An implementation of the War board game. [Play now!](http://jogowar.com.br) Have fun.
