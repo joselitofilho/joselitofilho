@@ -4,13 +4,7 @@
 - ⚡ ┇ I am Software Engineer based in Fortaleza/CE - :brazil: and a lover of software development.
 - 💻 ┇ I’m currently working on Instituto Atlântico and personal projects.
 - 💬 ┇ Ask me about anything! Will be my pleasure help you.
-- 👨‍💻 ┇ Repositories I have created
-  - [joselitofilhoo/thewar](https://github.com/joselitofilho/thewar) - An implementation of the War board game. [Play now!](http://jogowar.com.br) Have fun.
-  - [joselitofilhoo/ginkgoTestExplorer](https://github.com/joselitofilho/ginkgoTestExplorer) - A Ginkgo Test Explorer for VS Code. See in [visual studio marketplace](https://marketplace.visualstudio.com/items?itemName=joselitofilho.ginkgotestexplorer).
-  - [joselitofilhoo/gorm-arango](https://github.com/joselitofilho/gorm-arango) - Arango driver for GORM library.
-  - [joselitofilhoo/golang-optimizations](https://github.com/joselitofilho/golang-optimizations) - Study of Golang to avoid memory leaking, optimize code, and much more.
-
-- 📚 Some books I'm reading
+- 📚 ┇ Some books I'm reading
   - [Rework](https://www.amazon.com.br/Rework-Jason-Fried/dp/0307463745) - Jason Fried and David Heinemeier Hansson
   - [Nem Anjos Nem Demônios: A Humana Escolha Entre Virtudes e Vícios](https://www.goodreads.com/book/show/45168535-nem-anjos-nem-dem-nios?ac=1&from_search=true&qid=U5ycLqaCSp&rank=1) - Mario Sergio Cortella and Monja Coen
 
