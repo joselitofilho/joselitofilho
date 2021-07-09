@@ -8,7 +8,7 @@
   - [Rework](https://www.amazon.com.br/Rework-Jason-Fried/dp/0307463745) - Jason Fried and David Heinemeier Hansson
   - [Nem Anjos Nem Demônios: A Humana Escolha Entre Virtudes e Vícios](https://www.goodreads.com/book/show/45168535-nem-anjos-nem-dem-nios?ac=1&from_search=true&qid=U5ycLqaCSp&rank=1) - Mario Sergio Cortella and Monja Coen
 
-[![Joselito's GitHub stats](https://github-readme-stats.vercel.app/api?username=joselitofilho&show_icons=true&theme=dracula)](https://github.com/joselitofilho) 
+<!-- [![Joselito's GitHub stats](https://github-readme-stats.vercel.app/api?username=joselitofilho&show_icons=true&theme=dracula)](https://github.com/joselitofilho) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselitofilho&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/joselitofilho)
 -->
