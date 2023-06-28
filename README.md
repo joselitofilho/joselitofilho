@@ -4,9 +4,9 @@
 - ⚡ ┇ I am Software Engineer based in Fortaleza/CE - :brazil: and a lover of software development.
 - 💻 ┇ I’m currently working on Instituto Atlântico and personal projects.
 - 💬 ┇ Ask me about anything! Will be my pleasure help you.
-- 📚 ┇ Some books I'm reading
+<!--- 📚 ┇ Some books I'm reading
   - [Rework](https://www.amazon.com.br/Rework-Jason-Fried/dp/0307463745) - Jason Fried and David Heinemeier Hansson
-  - [Nem Anjos Nem Demônios: A Humana Escolha Entre Virtudes e Vícios](https://www.goodreads.com/book/show/45168535-nem-anjos-nem-dem-nios?ac=1&from_search=true&qid=U5ycLqaCSp&rank=1) - Mario Sergio Cortella and Monja Coen
+  - [Nem Anjos Nem Demônios: A Humana Escolha Entre Virtudes e Vícios](https://www.goodreads.com/book/show/45168535-nem-anjos-nem-dem-nios?ac=1&from_search=true&qid=U5ycLqaCSp&rank=1) - Mario Sergio Cortella and Monja Coen -->
 
 <!-- [![Joselito's GitHub stats](https://github-readme-stats.vercel.app/api?username=joselitofilho&show_icons=true&theme=dracula)](https://github.com/joselitofilho) -->
 <!--
